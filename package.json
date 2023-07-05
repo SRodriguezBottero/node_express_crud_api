@@ -1,0 +1,28 @@
+{
+  "name": "node_express_crud_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRodriguezBottero/node_express_crud_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRodriguezBottero/node_express_crud_api/issues"
+  },
+  "homepage": "https://github.com/SRodriguezBottero/node_express_crud_api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
